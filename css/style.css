@@ -1,0 +1,379 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf) format('truetype');
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.secondary_color {
+  color: #99ff33;
+}
+.btn {
+  border-radius: 5px;
+}
+.btn.btn-primary {
+  --bs-btn-bg: #005eda;
+  --bs-btn-border-color: #005eda;
+}
+.nav-link {
+  font-size: larger;
+}
+.nav-link.active {
+  color: #005eda !important;
+}
+.brand_subname {
+  font-style: italic;
+}
+section {
+  font-size: 3em;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+#home {
+  position: relative;
+  overflow: hidden;
+  background-color: #ad99ff;
+  background-image: radial-gradient(at 92% 48%, hsl(69, 69%, 69%) 0px, transparent 50%), radial-gradient(at 22% 73%, hsl(166, 98%, 71%) 0px, transparent 50%), radial-gradient(at 85% 99%, hsl(115, 95%, 64%) 0px, transparent 50%), radial-gradient(at 96% 46%, hsl(60, 92%, 76%) 0px, transparent 50%), radial-gradient(at 62% 43%, hsl(95, 68%, 74%) 0px, transparent 50%), radial-gradient(at 64% 39%, hsl(90, 68%, 62%) 0px, transparent 50%), radial-gradient(at 35% 39%, hsl(181, 60%, 62%) 0px, transparent 50%);
+}
+#home .ball {
+  right: -30%;
+  top: -100%;
+  position: absolute;
+  display: block;
+  background: black;
+  border-radius: 50%;
+  height: 1200px;
+  width: 1200px;
+  margin: 0;
+  background: radial-gradient(circle at 100px 100px, #005eda, #07a37c);
+  opacity: 0.15;
+  filter: blur(30px);
+}
+@media only screen and (max-width: 991.98px) {
+  #home .ball {
+    display: none;
+  }
+}
+#home h1 {
+  color: #004aad;
+}
+#home .logo_header {
+  border-radius: 5px;
+  width: fit-content;
+}
+h2.heading_text {
+  color: #005eda;
+}
+#about {
+  background: linear-gradient(to top, #f1fff1, #e5f2e5);
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#about ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#about ul li {
+  font-size: 2rem;
+  position: relative;
+  padding-left: 1.5em;
+}
+#about ul li::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #07a37c;
+}
+#about .our_team .ceo_details {
+  width: 30%;
+}
+@media only screen and (max-width: 991.98px) {
+  #about .our_team .ceo_details {
+    width: 100%;
+  }
+}
+#about .our_team .ceo_details img {
+  width: 100%;
+}
+#about .our_team .ceo_details .owner_details {
+  width: 100%;
+}
+#about .our_team .team_details {
+  width: 60%;
+}
+@media only screen and (max-width: 991.98px) {
+  #about .our_team .team_details {
+    width: 100%;
+  }
+}
+#services {
+  background: linear-gradient(to bottom, #CCFFCC, #ADD8E6);
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#services .services_wrapper .service .service_items .service_item p.h5 {
+  position: relative;
+  padding-left: 1.5em;
+}
+#services .services_wrapper .service .service_items .service_item p.h5::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #07a37c;
+}
+#services .sector_diversity_wrapper .sectors_wrapper .sector_row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 48px;
+  column-gap: 32px;
+}
+@media only screen and (max-width: 991.98px) {
+  #services .sector_diversity_wrapper .sectors_wrapper .sector_row {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 32px;
+    column-gap: 28px;
+  }
+}
+@media only screen and (max-width: 767.98px) {
+  #services .sector_diversity_wrapper .sectors_wrapper .sector_row {
+    grid-template-columns: 1fr;
+    row-gap: 24px;
+    column-gap: 24px;
+  }
+}
+#services .sector_diversity_wrapper .sectors_wrapper .sector_row .sector {
+  text-align: center;
+}
+#services .sector_diversity_wrapper .sectors_wrapper .sector_row .sector img {
+  border: 5px solid white;
+  width: 100%;
+  height: 250px;
+}
+#services .investor_network_wrapper .investor_wrapper .investor_row p.h5 {
+  position: relative;
+  padding-left: 1.5em;
+}
+#services .investor_network_wrapper .investor_wrapper .investor_row p.h5::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #005eda;
+}
+#team {
+  background: linear-gradient(to top, #f1fff1, #e5f2e5);
+}
+#team .team_credentials_wrapper {
+  display: grid;
+  gap: 32px;
+  align-items: center;
+  grid-template-areas: "sec_1 sec_2 sec_3" "sec_4 sec_2 sec_5";
+}
+#team .team_credentials_wrapper p.h5 {
+  position: relative;
+  padding-left: 1.5em;
+}
+#team .team_credentials_wrapper p.h5::before {
+  content: '✔';
+  position: absolute;
+  left: 0;
+  color: #07a37c;
+}
+#team .team_credentials_wrapper .sec {
+  background: linear-gradient(to top, #f1fff1, #e5f2e5);
+}
+#team .team_credentials_wrapper .sec_1 {
+  grid-area: sec_1;
+}
+#team .team_credentials_wrapper .sec_2 {
+  grid-area: sec_2;
+}
+#team .team_credentials_wrapper .sec_3 {
+  grid-area: sec_3;
+}
+#team .team_credentials_wrapper .sec_4 {
+  grid-area: sec_4;
+}
+#team .team_credentials_wrapper .sec_5 {
+  grid-area: sec_5;
+}
+@media only screen and (max-width: 991.98px) {
+  #team .team_credentials_wrapper {
+    grid-template-areas: "sec_2 sec_1" "sec_2 sec_3" "sec_2 sec_4" "sec_2 sec_5";
+    align-items: normal;
+  }
+}
+@media only screen and (max-width: 575.98px) {
+  #team .team_credentials_wrapper {
+    grid-template-areas: "sec_1" "sec_2" "sec_3" "sec_4" "sec_5";
+  }
+}
+#team .team_track_wrapper .team_track .track_row .track {
+  cursor: default;
+  background: linear-gradient(to right, #40d6ff, #baffc1, #fff4a2);
+}
+#contact {
+  background: linear-gradient(to top, #CCFFCC, #ADD8E6);
+}
+#contact .underline-0 {
+  text-decoration: none;
+}
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whatsapp-float svg {
+  width: 38px;
+  height: 38px;
+}
+/* Animation styles for elements with class 'animated' */
+.animated {
+  animation-name: fadeInUp;
+  animation-duration: 2.5s;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
