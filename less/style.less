@@ -37,15 +37,23 @@ section {
     font-size: 3em;
     padding-top: 70px;
     padding-bottom: 70px;
+    @media only screen and (max-width: 575.98px) {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
 }
 
 nav {
     @media only screen and (max-width: 409.98px) {
-        .brand_name,
+        .brand_name {
+            width: 200px;
+            text-wrap: pretty;
+            font-size: 18px;
+        }
         .brand_subname {
-            // width: 200px;
-            // text-wrap: pretty;
-            font-size: 0.7rem;
+            width: 200px;
+            text-wrap: pretty;
+            font-size: 12px;
         }
     }
 }
@@ -102,6 +110,11 @@ h2.heading_text {
     padding-top: 100px;
     padding-bottom: 100px;
 
+    @media (max-width: 767.98px) {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
     ul {
 
         list-style: none;
@@ -157,6 +170,11 @@ h2.heading_text {
     background: linear-gradient(to bottom, #CCFFCC, #ADD8E6);
     padding-top: 100px;
     padding-bottom: 100px;
+
+    @media only screen and (max-width: 575.98px) {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
 
     .services_wrapper {
         .service {
