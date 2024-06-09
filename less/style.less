@@ -39,6 +39,16 @@ section {
     padding-bottom: 70px;
 }
 
+nav {
+    @media only screen and (max-width: 409.98px) {
+        .brand_name,
+        .brand_subname {
+            width: 200px;
+            text-wrap: pretty;
+        }
+    }
+}
+
 #home {
     position: relative;
     overflow: hidden;
@@ -86,6 +96,7 @@ h2.heading_text {
 }
 
 #about {
+    cursor: default;
     background: linear-gradient(to top, #f1fff1, #e5f2e5);
     padding-top: 100px;
     padding-bottom: 100px;
@@ -98,6 +109,9 @@ h2.heading_text {
 
         li {
             font-size: 2rem;
+            @media only screen and (max-width: 575.98px) {
+                font-size: 1.5rem;
+            }
             position: relative;
             padding-left: 1.5em;
 
@@ -138,6 +152,7 @@ h2.heading_text {
 }
 
 #services {
+    cursor: default;
     background: linear-gradient(to bottom, #CCFFCC, #ADD8E6);
     padding-top: 100px;
     padding-bottom: 100px;
@@ -215,6 +230,7 @@ h2.heading_text {
 }
 
 #team {
+    cursor: default;
     background: linear-gradient(to top, #f1fff1, #e5f2e5);
 
     .team_credentials_wrapper {
@@ -293,6 +309,7 @@ h2.heading_text {
 }
 
 #contact {
+    cursor: default;
     background: linear-gradient(to top, #CCFFCC, #ADD8E6);
 
     .underline-0 {
@@ -316,12 +333,12 @@ h2.heading_text {
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
-  .whatsapp-float svg {
+}
+
+.whatsapp-float svg {
     width: 38px;
     height: 38px;
-  }
+}
 
 /* Animation styles for elements with class 'animated' */
 .animated {

@@ -151,6 +151,13 @@ section {
   padding-top: 70px;
   padding-bottom: 70px;
 }
+@media only screen and (max-width: 409.98px) {
+  nav .brand_name,
+  nav .brand_subname {
+    width: 200px;
+    text-wrap: pretty;
+  }
+}
 #home {
   position: relative;
   overflow: hidden;
@@ -187,6 +194,7 @@ h2.heading_text {
   color: #005eda;
 }
 #about {
+  cursor: default;
   background: linear-gradient(to top, #f1fff1, #e5f2e5);
   padding-top: 100px;
   padding-bottom: 100px;
@@ -200,6 +208,11 @@ h2.heading_text {
   font-size: 2rem;
   position: relative;
   padding-left: 1.5em;
+}
+@media only screen and (max-width: 575.98px) {
+  #about ul li {
+    font-size: 1.5rem;
+  }
 }
 #about ul li::before {
   content: '✔';
@@ -230,6 +243,7 @@ h2.heading_text {
   }
 }
 #services {
+  cursor: default;
   background: linear-gradient(to bottom, #CCFFCC, #ADD8E6);
   padding-top: 100px;
   padding-bottom: 100px;
@@ -283,6 +297,7 @@ h2.heading_text {
   color: #005eda;
 }
 #team {
+  cursor: default;
   background: linear-gradient(to top, #f1fff1, #e5f2e5);
 }
 #team .team_credentials_wrapper {
@@ -335,6 +350,7 @@ h2.heading_text {
   background: linear-gradient(to right, #40d6ff, #baffc1, #fff4a2);
 }
 #contact {
+  cursor: default;
   background: linear-gradient(to top, #CCFFCC, #ADD8E6);
 }
 #contact .underline-0 {
